@@ -1,0 +1,330 @@
+nav{
+    background-color: gainsboro;
+    padding-top: 17px;
+    border-bottom: black solid 10px
+}
+#meni{
+    margin-bottom: 0;
+    margin-top: 7px;
+    margin-right: 5px;
+    float: right;
+    display: flex;
+    font-weight: bold;
+    list-style-type: none;
+    font-family: Arial;
+}
+li{
+    margin-right: 62px;
+}
+a{
+    text-decoration: none;
+    color: #4a004f;
+}
+#logo{
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 25px;
+    padding-bottom: 15px;
+    margin-left: 40px;
+    display: flex;
+}
+#ime{
+    font-size: 28px;
+    font-weight: bold;
+    font-family: arial;
+    padding-left: 70px;
+    color: #4a004f;
+    margin-bottom: 10px;
+    display: flex;
+    padding-bottom: 6px;
+    text-shadow: gray 14px 8px 4px;
+}
+body{
+    margin: 0;
+    background-color: #c0a1c4;
+}
+#about a{
+    color: white;
+    background-color: darkgray;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 4px;
+}
+#education a{
+    color: white;
+    background-color: darkgray;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 4px;
+}
+#interests a{
+    color: white;
+    background-color: darkgray;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 4px;
+}
+#contact a{
+    color: white;
+    background-color: darkgray;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 4px;
+}
+.scmedias{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    margin-right: 20px;
+}
+#logoa{
+    text-align: center;
+    background-color: gainsboro;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: black solid 10px;
+}
+#parag1{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial;
+}
+#family\ tree{
+    border-radius: 21px;
+    margin-right: 50px;
+    display: flex;
+    margin-top: 45px;
+}
+#p1\.1{
+    display: flex;
+    align-items: center;
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
+.aa{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+#naslov1{
+    margin: 100px;
+    font-family: Fantasy ;
+    font-size: 60px;
+}
+.ab1{
+    margin-left: 150px;
+    margin-right: 68px;
+}
+.ab2{
+    margin-left: 222px;
+    margin-right: 123px;
+    margin-bottom: 90px;
+    margin-top: 76px;
+}
+.ac{
+    margin-left: 813px;
+    margin-right: 74px;
+    margin-top: 40px;
+}
+.ac2{
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.ad{
+    margin-left: 233px;
+    margin-right: 593px;
+    margin-top: -20px;
+}
+.ae {
+    margin-left: 725px;
+    margin-right: 130px;
+    margin-top: -20px;
+}
+p{
+    background-color: #6d5b6e;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+#jana1{
+    margin-right: 176px;
+    border-radius: 10px;
+}
+#p2\.1{
+    display: flex;
+    align-items: center;
+    margin-top: -60px;
+}
+#bbyJana{
+    border-radius: 10px;
+    margin-left: 210px;
+    margin-right: 171px;
+}
+#p1\.2{
+    display: flex;
+    align-items: center;
+    margin-top: -140px;
+}
+#copy{
+    color: #4a004f;
+    background-color: transparent;
+    margin:0;
+    text-align: center;
+}
+#sunset{
+    border-radius: 10px;
+    margin-left: 185px;
+    margin-top: -68px;
+}
+#polumatura{
+    border-radius: 10px;
+    margin-right: 0px;
+    margin-left: 200px;
+}
+#p2\.2{
+    display: flex;
+    justify-content: center;
+}
+#parag2{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial;
+    margin-top: 100px;
+}
+#handball{
+    margin-left: 100px;
+    margin-top: -30px;
+}
+#music{
+    margin-left: 100px;
+}
+#p3\.1{
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+#metalurg{
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.ab3{
+    margin-right: 200px;
+    margin-left: 100px;
+}
+#p3\.2{
+    display: flex;
+    align-items: center;
+    margin-top: -100px;
+}
+#handball2{
+    border-radius: 10px;
+    margin-right: 200px;
+}
+.ac3{
+    margin-left: 700px;
+    margin-right: 74px;
+    margin-top: 40px;
+}
+.aa4{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+#p3\.3{
+    display: flex;
+    align-items: center;
+}
+#superstar{
+    border-radius: 10px;
+    margin-right: 100px;
+    margin-left: 80px;
+}
+#p3\.4{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+#humanitaren{
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.ac4{
+    margin-left: 200px;
+    margin-right: 74px;
+    margin-top: 40px;
+}
+.ad4{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: -20px;
+}
+#p3\.5{
+    display: flex;
+    align-items: center;
+}
+#erasmus{
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.ae4{
+    margin-left: 144px;
+    margin-right: 130px;
+}
+.af4{
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+#naslov{
+    font-weight: bold;
+    margin: 100px;
+    font-family: Fantasy ;
+    font-size: 60px;
+    color: white;
+    margin-bottom: 230px;
+}
+form{
+    background-color: gainsboro;
+    margin: 32px;
+    padding-bottom: 50px;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+.lev{
+    margin-left: 33px;
+    padding-top: 24px;
+    float: left;
+    width: 48.5%;
+    display: flex;
+    flex-direction: column;
+}
+.desen{
+    margin-left: 764px;
+    margin-top: -172px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 24.5px;
+    width: 44.5%;
+}
+#submit{
+    padding: 10px 200px;
+    margin-left: 510px;
+    margin-top: 30px;
+    background-color: #4a004f ;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
